@@ -1,2 +1,3 @@
 # EE463_202303_Lab
-Lab1 for course EE463(operating systems).
+github repositorty for course EE463(operating systems).
+pdf submissions and other files will be found in this repositorty.
